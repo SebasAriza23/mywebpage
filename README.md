@@ -1,6 +1,4 @@
 # My webSite 
 This is a nice website
 
-New Branch II
-
-Example Branch 
+Updates made on master on Github before rebase
